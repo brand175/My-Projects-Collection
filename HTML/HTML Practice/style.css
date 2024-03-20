@@ -1,0 +1,54 @@
+body {
+    background: #0DA4DB;
+}
+
+h1 {
+    color: #345FFF;
+    background: #0FFFFF;
+    padding-left: 10px;
+    font-family: Arial;
+    }
+
+selector {
+    property: value;
+}
+
+a {
+    color: #0804f2;
+    text-decoration: none;
+    }
+
+ol {
+    padding: 0px;
+    margin:  -10px;
+    padding-right: 80px;
+}
+
+
+
+#boola {
+    color: pink;
+    }
+
+#github {
+    color: red;
+    }
+
+#youtube {
+    color: green;
+    }
+
+.websites {
+    color: black;
+    }
+    
+#context1 {
+    color: white;
+    background: #434a77;
+    padding: 70px;
+    border: solid 15px #FFFFFF;
+    border-radius: 15px;
+    width: 335px;
+    height: 450px;
+    margin: 50px;
+    }
